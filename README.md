@@ -1,1 +1,6 @@
 # CampusPlacement
+.....................
+Logistic Regression
+Random Forest
+Decision Tree
+.................
